@@ -256,9 +256,6 @@ namespace TicTatToe
             lblRuch.Text = gracz1 ? "O" : "X";
         }
 
-        private void nt()
-        {
-
-        }
+        
     }
 }
