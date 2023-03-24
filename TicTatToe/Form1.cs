@@ -255,5 +255,10 @@ namespace TicTatToe
             gracz1 = !gracz1;
             lblRuch.Text = gracz1 ? "O" : "X";
         }
+
+        private void nt()
+        {
+
+        }
     }
 }
